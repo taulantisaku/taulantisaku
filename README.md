@@ -30,10 +30,6 @@ Frontend / JavaScript Engineer focused on **React & TypeScript** and building fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" alt="Redux" />
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="32" alt="Zustand" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" width="32" alt="Gatsby" />
-</p>
-
-### Testing / Tools
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="32" alt="Jest" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="32" alt="Cypress" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="32" alt="Vite" />
@@ -41,8 +37,6 @@ Frontend / JavaScript Engineer focused on **React & TypeScript** and building fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
 </p>
-
----
 
 ## 📫 Contact
 

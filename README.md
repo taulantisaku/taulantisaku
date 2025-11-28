@@ -7,11 +7,7 @@ Frontend / JavaScript Engineer focused on **React & TypeScript** and building fa
 - 🌍 Based in Kosovo, working remotely with EU/US teams  
 - 🤝 Open to collaboration & remote opportunities  
 
----
-
-## 🛠 Tech Stack
-
-### Languages & Frameworks
+### 🛠  Languages & Frameworks
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" alt="JavaScript" />
@@ -38,10 +34,10 @@ Frontend / JavaScript Engineer focused on **React & TypeScript** and building fa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" alt="GitHub" />
 </p>
 
-## 📫 Contact
+###
 
-- GitHub: [@taulantisaku](https://github.com/taulantisaku)  
-- Email: **taulantisaku1@gmail.com**
+Email: **taulantisaku1@gmail.com**
+
  <a href="https://www.linkedin.com/in/taulant-isaku-6a2164107" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
